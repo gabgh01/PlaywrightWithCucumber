@@ -2,7 +2,7 @@
    ```
    git clone https://github.com/gabgh01/PlaywrightWithCucumber.git
    ```
-3. Change directory to `playwright-bdd-example`
+3. Change directory to `PlaywrightWithCucumber`
 
    ```
    cd PlaywrightWithCucumber
