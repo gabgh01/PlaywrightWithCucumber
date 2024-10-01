@@ -1,12 +1,14 @@
-
+1. clone repository
+   ```
+   git clone https://github.com/gabgh01/PlaywrightWithCucumber.git
+   ```
 3. Change directory to `playwright-bdd-example`
 
    ```
-   cd playwright-bdd-example
+   cd PlaywrightWithCucumber
    ```
 
 4. Install dependencies
-
    ```
    npm install
    ```
